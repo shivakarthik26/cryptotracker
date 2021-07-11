@@ -1,0 +1,28 @@
+.main {
+  margin-top: 10%;
+}
+.mainClick {
+  margin-top: 5%;
+}
+body {
+  font-family: "inherit", Arial;
+  background-image: url("https://m.economictimes.com/thumb/msid-82771896,width-1200,height-900,resizemode-4,imgsize-312033/crypto-currency.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: #2f4f4b;
+  padding: 20;
+}
+
+h3 {
+  color: white;
+}
+
+h1 {
+  letter-spacing: 10px;
+  color: green;
+  width: 500px;
+  border: 15px  rgb(0, 109, 128);
+  padding: 0 0 10px;
+  margin: 20px;
+}
